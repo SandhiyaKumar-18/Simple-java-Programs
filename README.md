@@ -1,6 +1,6 @@
-# Simple-java-Programs
-simple java programs
+## Simple-java-Programs
 
-1.Sorting
-2.Faranheat to Celcius
-3.
+
+# 1.Sorting
+# 2.Faranheat to Celcius
+# 3.Pyramid
